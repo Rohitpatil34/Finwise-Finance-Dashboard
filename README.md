@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-3-38B2AC)
 ![Vite](https://img.shields.io/badge/Vite-fast-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 A **modern, interactive finance dashboard** built using **React + Vite**, **Tailwind CSS**, and **Recharts** to help users track income, expenses, and financial insights visually.
 
