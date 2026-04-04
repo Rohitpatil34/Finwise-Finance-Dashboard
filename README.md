@@ -10,7 +10,7 @@ A **modern, interactive finance dashboard** built using **React + Vite**, **Tail
 ---
 
 ## 🌐 Live Demo
-👉 https://your-finwise.vercel.app
+👉 https://finwise-finance-dashboard-one.vercel.app
 
 ---
 
